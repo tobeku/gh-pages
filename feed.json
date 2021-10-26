@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "tobeku",
+    "description": "",
+    "home_page_url": "https://tobeku.github.io/gh-pages",
+    "feed_url": "https://tobeku.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tom Kuipers"
+    },
+    "items": [
+        {
+            "id": "https://tobeku.github.io/gh-pages/info.html",
+            "url": "https://tobeku.github.io/gh-pages/info.html",
+            "title": "Info",
+            "summary": "In dit blog wil ik zo af en toe mijn gedachte laten gaan over een aantal zaken die mij bezig houden. Ze zullen meestal gerelateerd zijn aan informatie- en archiefbeheer, mijn vak, maar andere onderwerpen sluit ik niet uit. De naam van dit blog heb&hellip;",
+            "content_html": "<p>In dit blog wil ik zo af en toe mijn gedachte laten gaan over een aantal zaken die mij bezig houden. Ze zullen meestal gerelateerd zijn aan informatie- en archiefbeheer, mijn vak, maar andere onderwerpen sluit ik niet uit. De naam van dit blog heb ik te danken aan een collega die me onlangs omschreef als een persoon die graag uien pelt, ofwel onderwerpen laagje voor laagje afpelt. Of dat zo is laat ik graag aan anderen over, maar ik vond het wel een aardige titel voor dit blog.  </p>\n",
+            "author": {
+                "name": "Tom Kuipers"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-25T20:37:47+02:00",
+            "date_modified": "2021-10-25T20:37:47+02:00"
+        }
+    ]
+}
